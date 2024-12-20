@@ -12,7 +12,7 @@ We are currently refactoring the code to re-anonymize the patient data according
 
 # Data
 
-Processed Seurat objects are available under DOI: [10.6084/m9.figshare.26189771](https://doi.org/10.6084/m9.figshare.26189771).
+Processed Seurat object are available under DOI: [10.6084/m9.figshare.26189771](https://doi.org/10.6084/m9.figshare.26189771).
 
 # License
 
